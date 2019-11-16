@@ -1,6 +1,6 @@
 Smart Mobile Apps Studio
 0
-market://details?id=com.smartmob.newversion
+market://details?id=com.smartmob.newversion2
 This app has new version, please update it from Google Play now
 0
 New app Video downloader for has been released, do you want to try it??
